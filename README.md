@@ -1,4 +1,4 @@
-<!-- nothing to see here -->
+If you want to know more about me, the [about page](https://iay.org.uk/about/) on my [web site](https://iay.org.uk/) is the best place to go.
 
 <!--
 **iay/iay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
